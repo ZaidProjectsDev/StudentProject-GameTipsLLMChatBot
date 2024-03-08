@@ -1,0 +1,18 @@
+{
+  "name": "gametipsserver",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Game Tip Server Side App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zaid",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.0.16",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
